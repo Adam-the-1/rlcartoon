@@ -2,7 +2,8 @@
 
  This project was made to help AI better classify whether something is a cartoon or not. I thought of this while looking at detectnet and imagenet datasets, when I noticed it didn’t do a good job identifying cartoon characters (specifically, Gustavo and Brick and Pickachu.) 
 
-![add image description here](direct image link here)
+![image](https://drive.google.com/uc?export=view&id=1paQu9f7k0uln1RfIcuDAe9eC_Da-dwGK)
+![image](https://drive.google.com/uc?export=view&id=18lbPdOKdZAYvj6KySvk2IYN28EBL12Rh)
 
 ## The Algorithm
 
