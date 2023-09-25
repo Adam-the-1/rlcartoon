@@ -21,5 +21,5 @@ This model is a resnet-18 model that uses imagenet when run. It is retrained usi
 7. Upload the image you want to test with the model.
 8. Make sure to with image1 and test1 with the names of your image and what you want to call the test image.
 
-[View a video explanation here](video link)
+[View a video explanation here](https://drive.google.com/file/d/11l75p_lu8O49ZtqQ5aIrtdRUZ5JqRTmH/view?usp=sharing)
 
